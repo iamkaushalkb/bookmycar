@@ -376,7 +376,7 @@ error_reporting(0);
           class="card"
           href="#"
           style="
-            --bg-img: url(../bookmycar/assets/images/Vechiles/sumo.svg);
+            --bg-img: url(../images/Vechiles/sumo.jpg);
           "
         >
           <div>
@@ -396,7 +396,7 @@ error_reporting(0);
           class="card"
           href="#"
           style="
-            --bg-img: url(../bookmycar/assets/images/Vechiles/micro.svg);
+            --bg-img: url(../images/Vechiles/micro.jpg);
           "
         >
           <div>
@@ -414,7 +414,7 @@ error_reporting(0);
           class="card"
           href="#"
           style="
-            --bg-img: url(../bookmycar/assets/images/Vechiles/bus.svg);
+            --bg-img: url(../images/Vechiles/bus.jpg);
           "
         >
           <div>
